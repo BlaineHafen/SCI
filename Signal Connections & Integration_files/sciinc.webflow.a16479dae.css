@@ -402,7 +402,7 @@ figcaption {
    opacity: 0.6;
    color: #303036;
    font-weight: 500;
-   width: 100%;
+   text-align: center;
 }
 
 .paragraph-light.blue {
