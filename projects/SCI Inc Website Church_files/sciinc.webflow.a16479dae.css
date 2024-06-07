@@ -2537,4 +2537,17 @@ figcaption {
     -ms-grid-row-span: 1;
     grid-row-end: 6;
   }
+   .paragraph-light-center {
+   opacity: 0.6;
+   color: #303036;
+   font-weight: 500;
+   text-align: center;
+}
+
+.container-contact-info {
+   display: block;
+   margin-top: 100px;
+   margin-bottom: 100px;
+   text-align: center;
+}
 }
