@@ -1896,7 +1896,9 @@ figcaption {
 
    .container-contact-info {
       display: block;
-      margin: 100px,auto,100px,auto;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      text-align: center;
    }
 
   .paragraph-bigger {
