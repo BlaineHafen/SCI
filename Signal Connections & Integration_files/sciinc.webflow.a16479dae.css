@@ -1895,10 +1895,8 @@ figcaption {
   }
 
    .container-contact-info {
-      display: inline;
-      margin-top: 100px;
-      margin-bottom: 100px;
-      text-align: center;
+      display: block;
+      margin: 100px,auto,100px,auto;
    }
 
   .paragraph-bigger {
